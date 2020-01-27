@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Github!
+
+Newbie coder orienting myself with this platform. I mostly know Java with a small history in C.
